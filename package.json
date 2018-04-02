@@ -4,9 +4,11 @@
   "description": "first api in node",
   "main": "app.js",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "brew": "^0.0.8",
     "express": "^4.16.3",
-    "mongodb": "^3.0.5"
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12"
   },
   "devDependencies": {},
   "scripts": {
