@@ -8,7 +8,8 @@
     "brew": "^0.0.8",
     "express": "^4.16.3",
     "mongodb": "^3.0.5",
-    "mongoose": "^5.0.12"
+    "mongoose": "^5.0.12",
+    "oracledb": "^2.2.0"
   },
   "devDependencies": {},
   "scripts": {
